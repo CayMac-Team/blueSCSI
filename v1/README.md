@@ -1,1 +1,1 @@
-v1 blueSCSI internal desktop mount
+v1 blueSCSI mounts
